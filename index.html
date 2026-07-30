@@ -5,31 +5,42 @@
 <section class="stats" id="stats"></section>
 <section class="section" id="explore"><div class="section-heading"><div><p class="eyebrow">THE LIVING ARCHIVE</p><h2>Explore the memories</h2></div><p>Every contribution is presented anonymously. Browse by year, theme, or keyword - or let the capsule choose for you.</p></div><div class="controls"><label><span>Search</span><input id="searchInput" type="search" placeholder="Search memories, places, ideas..."></label><label><span>Theme</span><select id="themeFilter"><option value="">All themes</option></select></label><label><span>Year</span><select id="yearFilter"><option value="">All years</option></select></label><button class="random-btn" id="randomMemory">Open a Memory</button></div><div class="memory-grid" id="memoryGrid"></div><p id="emptyState" hidden>No memories match those filters.</p></section>
 
-<section class="section timeline-section fulbright-history-timeline" id="timeline">
+<section class="section timeline-section" id="timeline">
   <div class="section-heading light">
     <div>
-      <p class="eyebrow">80 YEARS OF EXCHANGE</p>
-      <h2>The Fulbright timeline</h2>
+      <p class="eyebrow">ACROSS GENERATIONS</p>
+      <h2>A timeline of connection</h2>
     </div>
-    <p>Explore the milestones, people, and moments that shaped the Fulbright Program across eight decades.</p>
+    <p>Select a Fulbright year to open a story, then move through the years using the arrows or the chronology below.</p>
   </div>
 
-  <div class="timeline-embed-shell">
-    <iframe
-      class="timeline-embed"
-      src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?font=Default&height=650&initial_zoom=2&lang=en&source=v2%3A2PACX-1vTq_qItwUw1KNPIwsJsKm04ny3ycF0O5nkyV1Z3RwD2BTqm3STIwh7iKt8t_kFr20dNRMz8oEPdTe47&width=100%25"
-      title="Fulbright Canada historical timeline"
-      width="100%"
-      height="650"
-      frameborder="0"
-      allowfullscreen
-      loading="lazy">
-    </iframe>
+  <div class="story-timeline" aria-label="Interactive Fulbright Time Capsule timeline">
+    <button class="timeline-arrow timeline-arrow-left" id="timelinePrev" aria-label="Previous timeline entry">‹</button>
+
+    <article class="timeline-feature" id="timelineFeature">
+      <div class="timeline-feature-media" id="timelineFeatureMedia"></div>
+      <div class="timeline-feature-copy">
+        <p class="timeline-kicker" id="timelineKicker">FULBRIGHT MEMORY</p>
+        <h3 id="timelineFeatureYear"></h3>
+        <p class="timeline-feature-location" id="timelineFeatureLocation"></p>
+        <blockquote id="timelineFeatureQuote"></blockquote>
+        <div class="theme-tags" id="timelineFeatureThemes"></div>
+        <button class="timeline-open-button" id="timelineOpenMemory">Open this memory</button>
+      </div>
+    </article>
+
+    <button class="timeline-arrow timeline-arrow-right" id="timelineNext" aria-label="Next timeline entry">›</button>
   </div>
 
-  <div class="timeline-actions">
+  <div class="timeline-navigation">
+    <div class="timeline-progress-line"></div>
+    <div class="timeline-track" id="timelineTrack"></div>
+  </div>
+
+  <div class="timeline-footer">
+    <span id="timelinePosition"></span>
     <a class="timeline-link" href="https://www.fulbright.ca/timeline" target="_blank" rel="noopener">
-      Open the full timeline on Fulbright.ca →
+      Explore Fulbright Canada's historical timeline →
     </a>
   </div>
 </section>
