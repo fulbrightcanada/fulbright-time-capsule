@@ -110,3 +110,93 @@ window.CAPSULE_DATA = [
     "media": []
   }
 ];
+window.CAPSULE_ARTIFACTS = [
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_0fa151dc-d712-4b56-8300-862575627e6f.jpg",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_0fa151dc-d712-4b56-8300-862575627e6f.jpg",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_20260421_114003.jpg",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_20260421_114003.jpg",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "FulbrightBrandGuide_8.5x11.pdf",
+    "url": "assets/media/FulbrightBrandGuide_8.5x11.pdf",
+    "type": "document",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_6335.JPG",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_6335.JPG",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Fulbright-80th seal _white.png",
+    "url": "assets/media/Fulbright-80th seal _white.png",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_1863.jpeg",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_1863.jpeg",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_California- anti-caste discrimination bill.pdf",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_California- anti-caste discrimination bill.pdf",
+    "type": "document",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_4281.JPEG",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_4281.JPEG",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Fulbright 80th seal_color.png",
+    "url": "assets/media/Fulbright 80th seal_color.png",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_0312.JPG",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_0312.JPG",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  },
+  {
+    "name": "Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_1885.jpeg",
+    "url": "assets/media/Optional File Upload (PNG, JPG, JPEG, PDF)_IMG_1885.jpeg",
+    "type": "image",
+    "entryId": "",
+    "year": "",
+    "location": ""
+  }
+];
