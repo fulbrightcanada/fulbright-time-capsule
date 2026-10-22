@@ -1,0 +1,18 @@
+FULBRIGHT AT 80 TIME CAPSULE — ASSET AND PUBLISHING NOTES
+
+The supplied image assets have been placed in the website at the paths referenced by the HTML and JavaScript. The colour and white 80th anniversary seals are included. The booklet, postcard, Brian Culp, Drona Prakash Rasali (third document only), and Patrick Biddix document preview images have been replaced with the images supplied for this revision.
+
+Drona Prakash Rasali: only the third uploaded PDF is included. The first and second PDFs and their preview images have been removed from the public site package.
+
+No file titled “(Name) Entry” is included as a public artifact. Those PDFs were used only as source material for each alum’s memory-card text. The text retains the original wording where possible, with sensitive, negative, or political passages omitted or lightly edited for a positive, apolitical public presentation.
+
+PREVIEW DIMENSIONS (supplied source images):
+- Colour anniversary seal: 1878 × 1874 px
+- White anniversary seal: 752 × 750 px
+- Fulbright at 80 booklet preview: 900 × 1273 px
+- Anniversary postcard preview: 1200 × 930 px
+- Brian Culp PDF preview: 900 × 1182 px
+- Drona Prakash Rasali third PDF preview: 900 × 1165 px
+- Patrick Biddix previews: use the supplied images; these are scaled responsively in the cards.
+
+PUBLISHING: Extract the ZIP and upload the contents of the extracted folder to the root of the existing GitHub Pages repository, replacing the older files. Keep the assets folder and all its subfolders intact. Commit the changes, wait for Pages to rebuild, then hard-refresh the site. Do not upload the ZIP as a single file.
