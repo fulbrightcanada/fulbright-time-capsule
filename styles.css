@@ -11,3 +11,8 @@
 .empty-cover{display:flex;align-items:center;justify-content:center;background:linear-gradient(140deg,#eaf4fb,#dce9f7)}
 .empty-cover span{font:500 1.25rem var(--serif);color:#52708e}
 @media(max-width:700px){.material-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.material-tile img,.document-placeholder{height:135px}}
+
+/* Keep Malaika’s featured portrait fully visible without cropping or distortion. */
+.memory-card.featured .cover img{object-fit:contain;object-position:center;background:#eef3f8}
+/* Alumni cards without an individual photo use the supplied Fulbright memory image. */
+.placeholder-cover img{object-fit:cover;object-position:center}
