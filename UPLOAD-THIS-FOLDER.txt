@@ -1,0 +1,7 @@
+FULBRIGHT AT 80 — GITHUB PAGES UPDATE
+
+This package is a project-site bundle. Upload/commit the contents of this folder to the ROOT of the repository that publishes https://fulbrightcanada.github.io/fulbright-time-capsule/ .
+
+IMPORTANT: Your latest screenshot still shows the older separate “Artifacts from the Capsule” section. That means the updated index.html has not replaced the live root index.html yet. The repaired version intentionally groups documents and photos inside each person's memory card.
+
+Use GitHub Desktop if possible: clone/open the repository, copy these files over the repository (merge the assets folder), commit, and push. Do not upload this ZIP as a single file. Keep index.html, app.js, capsule-data.js, styles.css and the entire assets folder at repository root.
