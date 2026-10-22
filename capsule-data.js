@@ -97,7 +97,13 @@ window.CAPSULE_ENTRIES = [
     "location": "Vancouver, British Columbia, Canada",
     "testimonial": "My academic and professional path has included veterinary medicine and genetics, followed by work as a public health professional and academic faculty member in biomedical sciences in Canada.",
     "meaning": "I was awarded a Fulbright Scholar visit opportunity as a Fulbright Canada Research Chair at the Cecil C. Humphreys School of Law, University of Memphis, Tennessee, the United States, from August to December in 2023. This happened after I took retirement from my permanent job in Canada. It was a rare opportunity for which I am forever grateful to Fulbright Canada and the Governments of Canada and the United States of America.",
-    "media": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "assets/media/fulbright-memory-placeholder.jpg",
+        "name": "Fulbright alumni beside Canadian and American flags"
+      }
+    ],
     "docs": [
       {
         "name": "Drona Prakash Rasali (3).pdf",
@@ -198,7 +204,13 @@ window.CAPSULE_ENTRIES = [
     "location": "Saskatoon, SK",
     "testimonial": "My Fulbright year in 2003–04 changed how I understood both Canada and the United States. The experience caused me to think more seriously about Canada. After returning home, I began to study Canada’s own constitutional development, colonial foundations, British inheritance, federal structure, legal pluralism, and continuing attempt to hold different systems, peoples, languages, and traditions within one country.",
     "meaning": "Fulbright means intellectual transformation. My year in the U.S. changed how I understood that country, but its most lasting effect was to change how I understood Canada. It gave me the distance to stop seeing Canada chiefly in comparison with its neighbour and to begin studying our own history, institutions, legal traditions, and national character. More than twenty years later, Fulbright still represents the value of encountering another country directly. It shaped my education and began an inquiry that has continued throughout my life.",
-    "media": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "assets/media/fulbright-memory-placeholder.jpg",
+        "name": "Fulbright alumni beside Canadian and American flags"
+      }
+    ],
     "docs": []
   },
   {
@@ -237,7 +249,13 @@ window.CAPSULE_ENTRIES = [
     "location": "Knoxville, TN",
     "testimonial": "If a colleague asked whether Fulbright is worth the time, my answer would be an unequivocal yes. It was the reset button I needed—a professionally transformative and culturally enriching experience that changed my family, my work, and many of my perspectives on life. Although our time in Montreal officially ended, it has never really felt finished. The people we met, the friendships we built, the collaborative research, and the experiences we shared as a family continue to shape how we live, work, and see the world.",
     "meaning": "In fall of 2015, we moved to Montreal, Canada for what was my “research” Fulbright but quickly became our “family” Fulbright. Our time in Montreal is something I don’t want to think of as completed. The people we met or simply interacted with daily, the places we visited, the time we spent together, the collaborative research I did…all of it is still so real and relevant. My children spent their days learning alongside others who looked, acted, dressed, believed, and/or celebrated very differently than they did. Yet all of those things became secondary to simply making new friends. Montreal was a wonderful place to parent, providing daily teachable moments about open-mindedness and appreciating culture. As a Fulbright Scholar, I was able to transition fully to a new research line with the support of an incredibly visionary and innovative host scholar. I learned how to collaborate more efficiently and effectively in a research team, leading to the development of a successful research center at my institution. I (re)learned how to conduct field research and refined my own skillset. I even wrote the proposal for my first textbook while there. By learning from students, I was able to reconsider how I teach and spent valuable time thinking critically about my pedagogy. Overall, I believe my research, teaching, and family-life balance were immeasurably enhanced by my time in Canada.",
-    "media": [],
+    "media": [
+      {
+        "type": "image",
+        "url": "assets/media/fulbright-memory-placeholder.jpg",
+        "name": "Fulbright alumni beside Canadian and American flags"
+      }
+    ],
     "docs": [
       {
         "name": "Patrick Biddix (3).pdf",
@@ -259,5 +277,5 @@ window.CAPSULE_ENTRIES = [
       }
     ]
   }
-];
+]];
 window.FULBRIGHT_FLICKR = [{"url": "https://live.staticflickr.com/801/41076993942_332362730f.jpg", "caption": "Fulbright Canada photo archive · 2018", "album": "https://www.flickr.com/photos/fulbrightcanada/41076993942"}, {"url": "https://live.staticflickr.com/65535/55533744966_204658dfc3.jpg", "caption": "Fulbright Canada community gathering · 2026", "album": "https://www.flickr.com/photos/fulbrightcanada/sets/72177720335657885"}, {"url": "https://live.staticflickr.com/4511/37688556102_cb68d73987.jpg", "caption": "Fulbright Canada photo archive · 2017", "album": "https://www.flickr.com/photos/fulbrightcanada/37688556102"}, {"url": "https://live.staticflickr.com/65535/53185351729_9ddaf976f2.jpg", "caption": "Fulbright Canada photo archive · 2023", "album": "https://www.flickr.com/photos/fulbrightcanada/53185351729"}];
