@@ -12,3 +12,5 @@ Large video files are not included to keep the site manageable for GitHub Pages;
 Flickr photos are remotely hosted by Flickr and link to Fulbright Canada's official album. If a Flickr image URL changes, update window.FULBRIGHT_FLICKR in capsule-data.js.
 Historical timeline: https://www.fulbright.ca/timeline
 Contribution form: https://www.cognitoforms.com/FulbrightCanada1/Fulbright80TimeCapsule
+
+Complete-site package update: the supplied U.S./Canadian flags photo is used for the Drona Prakash Rasali, Linda Yip, and Patrick Biddix memory cards. Kristine Pashin’s Toronto fireworks photo is shown upright and fully visible in its card preview. Malaika Serrano remains first and her featured photo is displayed without cropping or distortion. The Flickr archive grid randomizes the order of the included official Fulbright Canada archive images on each page load; image links lead to the official Flickr photostream/photo pages.

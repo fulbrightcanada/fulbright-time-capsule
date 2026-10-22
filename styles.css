@@ -16,3 +16,6 @@
 .memory-card.featured .cover img{object-fit:contain;object-position:center;background:#eef3f8}
 /* Alumni cards without an individual photo use the supplied Fulbright memory image. */
 .placeholder-cover img{object-fit:cover;object-position:center}
+
+/* Keep Kristine Pashin’s portrait-oriented Toronto fireworks image upright and fully visible in the card preview. */
+.kristine-card .cover img{object-fit:contain;object-position:center;background:#101722}

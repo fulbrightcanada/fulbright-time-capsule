@@ -1,7 +1,3 @@
-FULBRIGHT AT 80 — GITHUB PAGES UPDATE
+UPLOAD THE CONTENTS OF THIS FOLDER TO THE ROOT OF THE EXISTING GitHub repository: fulbrightcanada/fulbright-time-capsule. Preserve all relative paths, including assets/. Do not upload the enclosing folder as a nested folder. Commit the changes; GitHub Pages will publish automatically.
 
-This package is a project-site bundle. Upload/commit the contents of this folder to the ROOT of the repository that publishes https://fulbrightcanada.github.io/fulbright-time-capsule/ .
-
-IMPORTANT: Your latest screenshot still shows the older separate “Artifacts from the Capsule” section. That means the updated index.html has not replaced the live root index.html yet. The repaired version intentionally groups documents and photos inside each person's memory card.
-
-Use GitHub Desktop if possible: clone/open the repository, copy these files over the repository (merge the assets folder), commit, and push. Do not upload this ZIP as a single file. Keep index.html, app.js, capsule-data.js, styles.css and the entire assets folder at repository root.
+This is the complete static site: index.html, styles.css, app.js, capsule-data.js, and assets/. It includes all 13 alumni entries, associated supplied photos/documents selected for publication, anniversary branding/publication PDFs, the supplied flags photo for Drona Prakash Rasali, Linda Yip and Patrick Biddix, the featured Malaika card with a full-image fit rule, and the Flickr photo archive section.

@@ -100,7 +100,7 @@ window.CAPSULE_ENTRIES = [
     "media": [
       {
         "type": "image",
-        "url": "assets/media/fulbright-memory-placeholder.jpg",
+        "url": "assets/media/fulbright-canada-flags.jpg",
         "name": "Fulbright alumni beside Canadian and American flags"
       }
     ],
@@ -207,7 +207,7 @@ window.CAPSULE_ENTRIES = [
     "media": [
       {
         "type": "image",
-        "url": "assets/media/fulbright-memory-placeholder.jpg",
+        "url": "assets/media/fulbright-canada-flags.jpg",
         "name": "Fulbright alumni beside Canadian and American flags"
       }
     ],
@@ -252,7 +252,7 @@ window.CAPSULE_ENTRIES = [
     "media": [
       {
         "type": "image",
-        "url": "assets/media/fulbright-memory-placeholder.jpg",
+        "url": "assets/media/fulbright-canada-flags.jpg",
         "name": "Fulbright alumni beside Canadian and American flags"
       }
     ],
@@ -277,5 +277,5 @@ window.CAPSULE_ENTRIES = [
       }
     ]
   }
-]];
+];
 window.FULBRIGHT_FLICKR = [{"url": "https://live.staticflickr.com/801/41076993942_332362730f.jpg", "caption": "Fulbright Canada photo archive · 2018", "album": "https://www.flickr.com/photos/fulbrightcanada/41076993942"}, {"url": "https://live.staticflickr.com/65535/55533744966_204658dfc3.jpg", "caption": "Fulbright Canada community gathering · 2026", "album": "https://www.flickr.com/photos/fulbrightcanada/sets/72177720335657885"}, {"url": "https://live.staticflickr.com/4511/37688556102_cb68d73987.jpg", "caption": "Fulbright Canada photo archive · 2017", "album": "https://www.flickr.com/photos/fulbrightcanada/37688556102"}, {"url": "https://live.staticflickr.com/65535/53185351729_9ddaf976f2.jpg", "caption": "Fulbright Canada photo archive · 2023", "album": "https://www.flickr.com/photos/fulbrightcanada/53185351729"}];
